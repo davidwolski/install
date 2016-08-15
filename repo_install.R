@@ -2,6 +2,7 @@ repo_install_packages <- c("affy", # for Affymetrix chips
                             "annotate", # annotation
                             "AnnotationDbi", # Gene annotation
                             "biomaRt", # annotation
+                            "calibrate"
                             "cluster", # cluster
                             "DESeq2", # RNASeq analysis
                             "dplyr", # data manipulation
